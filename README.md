@@ -1,0 +1,1 @@
+In this project, I used the OpenWeather API to get weather data, the Guzzle library to work with the API, and the GeoLocation library to easily work with the user's ip.![image](https://github.com/Asi1124/weatherapp/assets/149960376/6c2d1f5f-164e-45be-8c69-f56384405fab)
